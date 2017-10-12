@@ -1,0 +1,1 @@
+console.error("SyntaxError: C:/Users/courtney.james/Desktop/employee-reference/src/components/ProfilePage.jsx: Adjacent JSX elements must be wrapped in an enclosing tag (21:12) while parsing file: C:\\Users\\courtney.james\\Desktop\\employee-reference\\src\\components\\ProfilePage.jsx");
